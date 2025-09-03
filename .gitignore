@@ -1,5 +1,5 @@
 # Build artifacts
-**/bin/
-**/obj/
-
+CS STax Basic/bin/
+CS STax Basic/obj/
 *.sln
+
