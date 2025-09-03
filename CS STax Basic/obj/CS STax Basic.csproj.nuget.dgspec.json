@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Documents\\Learn\\CS STax Basic\\CS STax Basic\\CS STax Basic.csproj": {}
+    "C:\\Users\\Asus\\Documents\\GitHub\\CS-STax\\CS STax Basic\\CS STax Basic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Documents\\Learn\\CS STax Basic\\CS STax Basic\\CS STax Basic.csproj": {
+    "C:\\Users\\Asus\\Documents\\GitHub\\CS-STax\\CS STax Basic\\CS STax Basic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Documents\\Learn\\CS STax Basic\\CS STax Basic\\CS STax Basic.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Documents\\GitHub\\CS-STax\\CS STax Basic\\CS STax Basic.csproj",
         "projectName": "CS STax Basic",
-        "projectPath": "C:\\Users\\Asus\\Documents\\Learn\\CS STax Basic\\CS STax Basic\\CS STax Basic.csproj",
+        "projectPath": "C:\\Users\\Asus\\Documents\\GitHub\\CS-STax\\CS STax Basic\\CS STax Basic.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Documents\\Learn\\CS STax Basic\\CS STax Basic\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Documents\\GitHub\\CS-STax\\CS STax Basic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
