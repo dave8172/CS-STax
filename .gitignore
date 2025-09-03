@@ -1,0 +1,4 @@
+# Build artifacts
+CS STax Basic/bin/
+CS STax Basic/obj/
+*.sln
