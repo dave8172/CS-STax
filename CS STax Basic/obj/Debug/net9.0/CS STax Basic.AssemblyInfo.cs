@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CS STax Basic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+613bf2ac3a6c27ce4288ebc65a0ed51291deeba3")]
 [assembly: System.Reflection.AssemblyProductAttribute("CS STax Basic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CS STax Basic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
